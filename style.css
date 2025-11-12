@@ -12,8 +12,14 @@
   line-height: 1.6;
   font-size: 1.05rem;
 }
+
+
+
+
 body{
-  background-image: url(back.jpg);
+  background-image: url(fun.jpg);
+text-align: center;
+
 }
 
 footer{
@@ -21,4 +27,7 @@ position: fixed;
 bottom: 0;
 width: 100%;
 
+}
+main{
+  margin: auto;
 }
